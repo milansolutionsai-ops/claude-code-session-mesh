@@ -1,0 +1,5 @@
+node_modules/
+.seen/
+HANDOFF.md
+*.key
+.env*
